@@ -1,4 +1,4 @@
-### Hi there, I'm Oguzhan - Se7eN [website] 👋
+### Hi there, I'm Oguzhan - [Se7eN][website] 👋
 
 [![Website](https://img.shields.io/website?label=Se7eN&style=for-the-badge&url=https%3A%2F%2Foguzhanse7en.com)](https://oguzhanse7en.com)
 
