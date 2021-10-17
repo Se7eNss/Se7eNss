@@ -39,6 +39,6 @@
 <br />
 
 
-
+[website]:https://oguzhanse7en.com
 [instagram]: https://www.instagram.com/sevenn18/
 [linkedin]: https://www.linkedin.com/in/oguzhanse7en/
