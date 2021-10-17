@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a freelancer. 
 - 🌱 I’m currently learning everything about web devlopment
-- 🥅 2021 Goals: Work in company as a front-end developer.
+- 🥅 2021 Goals: Work in company as a web developer.
 - ⚡ Fun fact: I love to play soccer, watch series.
 
 ### Connect with me:
