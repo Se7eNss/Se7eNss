@@ -1,4 +1,4 @@
-[
+{"menu":[
     {
         "isDropdown": true,
         "title": "Hesaplar",
@@ -56,4 +56,4 @@
         "link": "#",
         "dropItems": null
     }
-]
+]}
