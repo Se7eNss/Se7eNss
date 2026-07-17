@@ -1,44 +1,34 @@
-### Hi there, I'm Oguzhan - [Se7eN][website] 👋
+# Merhaba, Ben Oğuzhan Seven 👋
 
-[![Website](https://img.shields.io/website?label=Se7eN&style=for-the-badge&url=https%3A%2F%2Foguzhanse7en.com)](https://oguzhanse7en.com)
+**Senior Web Developer & Full Stack Software Engineer**
 
+Ölçeklenebilir frontend mimarileri ve sağlam backend sistemleri tasarlama konusunda 4 yılı aşkın sektör tecrübesine sahip bir yazılım mühendisiyim. Performanslı veri tabloları, 3D ürün yapılandırıcıları ve yerel yapay zeka (RAG) entegrasyonları geliştirmekten keyif alıyorum.
 
-## I'm a  Web Developer and CS Student!!
+### 🚀 Neler Yapıyorum?
 
-- 🔭 I’m currently working as a Web Developer. 
-- 🌱 I’m currently learning everything about web devlopment
-- ⚡ Fun fact: I love to play soccer, watch series.
+* **Full Stack Geliştirme:** React, Next.js, TypeScript ve NestJS kullanarak uçtan uca modern, SEO uyumlu ve hızlı web uygulamaları inşa ediyorum.
+* **Yapay Zeka & RAG Mimarileri:** Kendi donanımım üzerinde yerel dil modelleri (Ollama, LLaMA) çalıştırıyor ve sektörel yapay zeka destekli asistan platformları geliştiriyorum.
+* **Gelişmiş Arayüz Çözümleri:** TanStack Table ile özelleştirilmiş, yüksek performanslı datagrid kütüphaneleri ve Three.js kullanarak markalar için etkileşimli 3D web deneyimleri tasarlıyorum.
+* **Altyapı & Dağıtım:** Sunucu mimarilerini (Hetzner Cloud) yönetiyor, web ve mobil (EAS) için otomatik CI/CD süreçleri kuruyorum.
 
-### Connect with me:
+### 💻 Teknoloji Yığınım
 
-[<img align="left" alt="oguzhanse7en.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Se7eN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Se7eN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+* **Frontend:** React, Next.js, TypeScript, Three.js, SCSS, Tailwind CSS
+* **Backend:** NestJS, Node.js
+* **AI & Veri:** RAG (Retrieval-Augmented Generation), Ollama, LLaMA, Meta SAM
+* **DevOps & Altyapı:** Hetzner, Vercel, Docker
 
-<br />
+### 🏆 Öne Çıkan Projeler & Çalışmalar
 
-### Languages and Tools:
+* **[Müşavir AI](https://musavirai.com.tr):** Hukuki mevzuatlara özel olarak geliştirilmiş, web ve mobil (iOS/Android) platformlarında çalışan yapay zeka destekli RAG asistanı.
+* **[Verastone](https://verastone.com.tr):** Lüks taş markası için Next.js ile optimize edilmiş (JSON-LD şemaları dahil) web uygulaması ve Three.js tabanlı özel 3D ürün konfigüratörü.
+* **Performanslı React Datagrid:** Headless TanStack Table çekirdeği ve özel SCSS düzenleri kullanılarak sıfırdan oluşturulmuş, yüksek performanslı veri tablosu kütüphanesi.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+### 🎓 Eğitim
 
+* **BSc Bilgisayar Mühendisliği** - Karabük Üniversitesi (100% İngilizce)
+* **İngilizce Dil Eğitimi** - English Path, Birmingham, UK
 
-<br />
-<br />
+### 📫 İletişime Geçin
 
-
-[website]:https://oguzhanse7en.com
-[instagram]: https://www.instagram.com/sevenn18/
-[linkedin]: https://www.linkedin.com/in/oguzhanse7en/
+* LinkedIn: [linkedin.com/in/oguzhanSe7en](#oguzhanSe7en)
