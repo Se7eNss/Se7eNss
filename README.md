@@ -9,7 +9,7 @@
 * **Full Stack Geliştirme:** React, Next.js, TypeScript ve NestJS kullanarak uçtan uca modern, SEO uyumlu ve hızlı web uygulamaları inşa ediyorum.
 * **Yapay Zeka & RAG Mimarileri:** Kendi donanımım üzerinde yerel dil modelleri (Ollama, LLaMA) çalıştırıyor ve sektörel yapay zeka destekli asistan platformları geliştiriyorum.
 * **Gelişmiş Arayüz Çözümleri:** TanStack Table ile özelleştirilmiş, yüksek performanslı datagrid kütüphaneleri ve Three.js kullanarak markalar için etkileşimli 3D web deneyimleri tasarlıyorum.
-* **Altyapı & Dağıtım:** Sunucu mimarilerini (Hetzner Cloud) yönetiyor, web ve mobil (EAS) için otomatik CI/CD süreçleri kuruyorum.
+* **Altyapı & Dağıtım:** Sunucu mimarilerini yönetiyor, web ve mobil (EAS) için otomatik CI/CD süreçleri kuruyorum.
 
 ### 💻 Teknoloji Yığınım
 
